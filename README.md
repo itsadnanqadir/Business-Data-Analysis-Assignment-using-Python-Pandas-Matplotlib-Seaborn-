@@ -34,10 +34,3 @@ This project provides an in-depth exploratory data analysis (EDA) focused on cus
 - **Environment**: Jupyter Notebook
 
 ---
-
-## 🚀 How to Run the Project Locally
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/YOUR_USERNAME/customer-churn-data-analysis.git](https://github.com/YOUR_USERNAME/customer-churn-data-analysis.git)
-cd customer-churn-data-analysis
